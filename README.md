@@ -26,7 +26,7 @@ It’s suitable for SaaS, tech startups, and digital products looking for a clea
 Check out the live version:  
 👉 [virt-landing-page.vercel.app](https://virt-landing-page.vercel.app/)
 
-<img width="1872" height="825" alt="image" src="https://github.com/user-attachments/assets/7e19e10c-9f67-442a-8d58-5762fa4aaf6e" />
+
 
 
 ---
@@ -34,6 +34,11 @@ Check out the live version:
 ## Screenshots
 
 <img width="1892" height="808" alt="image" src="https://github.com/user-attachments/assets/c5d4838c-0e54-45e6-b0c2-2714ec31dad9" />
+
+<img width="1872" height="825" alt="image" src="https://github.com/user-attachments/assets/7e19e10c-9f67-442a-8d58-5762fa4aaf6e" />
+
+<img width="1861" height="867" alt="image" src="https://github.com/user-attachments/assets/0c9fbcda-2bf5-410a-971e-5a1986526a5a" />
+
 
 
 ## Getting Started
