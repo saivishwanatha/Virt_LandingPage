@@ -1,12 +1,41 @@
-# React + Vite
+# Virt Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Live Demo 🚀](https://virt-landing-page.vercel.app/)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
 
-## Expanding the ESLint configuration
+Virt Landing Page is a modern, responsive, and visually appealing landing page designed for high conversion.  
+It’s suitable for SaaS, tech startups, and digital products looking for a clean online presence.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Features
+
+- 🚀 **Fully Responsive** – Works beautifully on desktop, tablet, and mobile.
+- ✨ **Modern Design** – Sleek UI with smooth animations.
+- ⚡️ **Fast Loading** – Optimized for performance.
+- 📱 **Mobile-first** – Designed to look great on all devices.
+- 🛠️ **Easy to Customize** – Modular components and clean code.
+
+---
+
+## Demo
+
+Check out the live version:  
+👉 [virt-landing-page.vercel.app](https://virt-landing-page.vercel.app/)
+
+---
+
+## Screenshots
+
+<img width="1892" height="808" alt="image" src="https://github.com/user-attachments/assets/c5d4838c-0e54-45e6-b0c2-2714ec31dad9" />
+
+
+## Getting Started
+
+### 1. **Clone the repository**
+```bash
+git clone https://github.com/saivishwanatha/Virt_LandingPage.git
+cd Virt_LandingPage
